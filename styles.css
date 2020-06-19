@@ -1,0 +1,9 @@
+body{
+    background:#990;
+    font-family: times new roman;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
